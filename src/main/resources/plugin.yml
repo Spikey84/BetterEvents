@@ -1,0 +1,13 @@
+main: me.spikey.betterevents.Main
+
+name: BetterEvents
+version: 0.1
+
+api-version: 1.13
+
+authors: ['PhoenixZT', 'SpikeyNoob']
+
+commands:
+  loadkit:
+  savekit:
+  startgame:
